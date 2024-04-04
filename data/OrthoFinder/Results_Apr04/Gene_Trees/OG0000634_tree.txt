@@ -1,0 +1,1 @@
+(ahos_ahos|F4B4S9:0.376065,(ahos_ahos|F4B7T3:0.712758,(ahos_ahos|F4B877:1.46652,(ahos_ahos|F4B6W9:1.16002,(ahos_ahos|F4B4E8:1.15184,ahos_ahos|F4B4T8:1.09421):0.507325):0.133475):0.521241):0.376065);

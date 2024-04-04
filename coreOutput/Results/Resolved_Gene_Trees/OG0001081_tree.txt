@@ -1,0 +1,1 @@
+(ahos_ahos|F4B7L9:0.884223,(ahos_ahos|F4B3T1:1.39809,(ahos_ahos|F4B517:0.621068,ahos_ahos|F4B518:0.214274)n2:0.60389)n1:0.884223)n0;

@@ -1,0 +1,1 @@
+(apis_apis|A0A8R2JSK7:1.15e-05,((apis_apis|A0A8R2NPF9:1.6056,apis_apis|A0A8R1W1F9:1.50543):1.4181,apis_apis|A0A8R1W601:0.105897):1.15e-05);

@@ -1,0 +1,12 @@
+2024-04-03 19:34:08 : Started OrthoFinder version 2.5.5
+Command Line: /usr/local/bin/orthofinder -a 5 -b .
+
+WorkingDirectory_Base: /home/rdemko/workspace/workflows/holdOrthoFinder/work/ec/2808d660c89d8de665269c47c4a3cc/
+
+Species used: 
+0: ahos.fasta
+1: apis.fasta
+
+FN_Orthogroups: /home/rdemko/workspace/workflows/holdOrthoFinder/work/ec/2808d660c89d8de665269c47c4a3cc/OrthoFinder/Results_Apr03/WorkingDirectory/clusters_OrthoFinder_I1.5.txt_id_pairs.txt
+WorkingDirectory_Trees: /home/rdemko/workspace/workflows/holdOrthoFinder/work/ec/2808d660c89d8de665269c47c4a3cc/OrthoFinder/Results_Apr03/WorkingDirectory/
+2024-04-03 19:34:25 : OrthoFinder run completed

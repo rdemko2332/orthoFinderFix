@@ -1,0 +1,1 @@
+(apis_apis|A0A8R2JQJ7:5.978e-09,(apis_apis|A0A8R2JQK8:0.00254,((apis_apis|A0A8R2JRP5:0.000923,apis_apis|A0A8R2JR24:0.001343)n3:2.1e-05,apis_apis|A0A8R2JR06:0.001151)n2:2.3e-05)n1:5.978e-09)n0;

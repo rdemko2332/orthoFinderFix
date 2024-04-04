@@ -1,0 +1,1 @@
+(apis_apis|C4WUJ2:0.307934,(apis_apis|C4WTQ3:0.52317,((apis_apis|C4WTQ6:0.007722,apis_apis|C4WTV6:2.19215e-06):0.473006,apis_apis|A0A8R2AAF6:0.508267):0.065364):0.307934);
