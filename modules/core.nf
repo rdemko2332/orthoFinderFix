@@ -481,7 +481,7 @@ workflow bestRepresentativesAndStats {
     // in batches of bestReps, filter the group.sim file to create a file per group with similarities where the query seq is the bestRep
     // collect up resulting files
     groupResultsOfBestRep = filterSimilaritiesByBestRepresentative(allDiamondSimilarities,
-                                                                   combinedBestRepresentatives.splitText( by: 1000, file: true ),
+                                                                   combinedBestRepresentatives.splitText( by: 10000, file: true ),
                                                                    singletonsFull.collect(),
 								   missingGroups).collect()
 
