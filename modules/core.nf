@@ -463,7 +463,7 @@ workflow bestRepresentativesAndStats {
     singletonsFull = makeFullSingletonsFile(singletonFiles, orthofinderGroupResultsOrthologgroups, params.buildVersion).collectFile()
 
     // in batches, process group similarity files and determine best representative for each group
-    bestRepresentatives = findBestRepresentatives(allDiamondSimilaritiesPerGroup.collate(250),missingGroups,orthofinderGroupResultsOrthologgroups,setupSequenceMapping)
+    bestRepresentatives = findBestRepresentatives(allDiamondSimilaritiesPerGroup.collate(250),missingGroups.collect(),orthofinderGroupResultsOrthologgroups.collect(),setupSequenceMapping.collect())
 
     allBestRepresentatives = bestRepresentatives.flatten().collectFile()
 
