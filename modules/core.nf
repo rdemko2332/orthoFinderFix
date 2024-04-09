@@ -208,7 +208,8 @@ process removeEmptyGroups {
     touch allReps.txt
     cat $bestReps >> allReps.txt
     cat $singletons >> allReps.txt
-    grep -v '^empty' allReps.txt > unique_best_representative.txt
+    grep -v '^empty' allReps.txt > noEmpty.txt
+    sort -k 1 noEmpty.txt | uniq > unique_best_representative.txt
     """
 }
 
