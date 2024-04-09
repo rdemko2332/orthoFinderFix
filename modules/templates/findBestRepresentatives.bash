@@ -11,3 +11,5 @@ addTranslatedMissingGroupMembers.pl \
     --missingGroups $missingGroups \
     --groupMapping $groupMapping \
     -sequenceMapping $sequenceMapping >> best_representative.txt
+
+echo "Done"
